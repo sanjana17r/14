@@ -1,0 +1,20 @@
+{
+    "flight2":{
+        "from" : "Malta",
+        "to" : "london",
+        "time" : "09:45",
+        "status": "DELAYED"
+    },
+    "flight3":{
+        "from" : "Malta",
+        "to" : "Poznan",
+        "time" : "10:00",
+        "status": "DELAYED"
+        },
+    "flight4":{
+        "from" : "Malta",
+        "to" : "london",
+        "time" : "11:45",
+        "status": "ON TIME"
+        }
+}
